@@ -3,7 +3,7 @@
 Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate this special occasion with you. Below are some gift suggestions that would make our new journey even more memorable. Thank you for your love and support!
 
 ## Gifts
-- [ ] Wood Cutting Board
+- [ ] Cookware set - [link](https://fromourplace.ca/products/prepped-bundle?variant=40648614969518)
 - [ ] Blender
 - [ ] Tea Kettle
 - [ ] Hand Mixer
@@ -14,13 +14,14 @@ Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate th
 - [ ] Wine Bottle Opener
 - [ ] Kitchen knives
 - [ ] Cookware Pots and pans
-- [ ] Airfryer
-- [ ] Toaster oven
 - [ ] Rice Cooker (CUCKOO)
+- [ ] Air fryer and toaster oven - [link](https://fromourplace.ca/products/wonder-oven)
 - [ ] Instant Pot Pressure Cooker
 - [ ] Food processor
 - [ ] Black and Decker Toaster Oven
 
+## Fund
+- [ ] Honeymoon Fund
 
 If you would like to send your gift directly to us or need our address for any reason, please feel free to reach out to us.
 
