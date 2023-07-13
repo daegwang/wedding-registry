@@ -4,6 +4,8 @@ Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate th
 
 ## Gifts
 - [ ] Cookware set - [link](https://fromourplace.ca/products/prepped-bundle?variant=40648614969518)
+- [ ] Cookware pans - [link](https://fromourplace.ca/products/always-essential-cooking-pan)
+- [ ] Cookware pots
 - [ ] Blender
 - [ ] Tea Kettle
 - [ ] Hand Mixer
@@ -13,12 +15,10 @@ Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate th
 - [ ] Peeler
 - [ ] Wine Bottle Opener
 - [ ] Kitchen knives
-- [ ] Cookware Pots and pans
 - [ ] Rice Cooker (CUCKOO)
 - [ ] Air fryer and toaster oven - [link](https://fromourplace.ca/products/wonder-oven)
 - [ ] Instant Pot Pressure Cooker
 - [ ] Food processor
-- [ ] Black and Decker Toaster Oven
 
 ## Fund
 - [ ] Honeymoon Fund
