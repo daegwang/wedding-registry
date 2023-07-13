@@ -9,8 +9,7 @@ Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate th
 - [ ] Blender
 - [ ] Tea Kettle
 - [ ] Hand Mixer
-- [ ] Measuring Cups
-- [ ] Measuring Spoons
+- [ ] Measuring Cups and Spoons
 - [ ] Spatula
 - [ ] Peeler
 - [ ] Wine Bottle Opener
