@@ -1,6 +1,6 @@
 # Wedding Registry
 
-Welcome to our wedding registry! We are thrilled to celebrate this special occasion with you. Below are some gift suggestions that would make our new journey even more memorable. Thank you for your love and support!
+Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate this special occasion with you. Below are some gift suggestions that would make our new journey even more memorable. Thank you for your love and support!
 
 ## Gifts
 - [ ] Wood Cutting Board
