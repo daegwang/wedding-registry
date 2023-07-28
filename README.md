@@ -3,8 +3,8 @@
 Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate this special occasion with you. Below are some gift suggestions that would make our new journey even more memorable. Thank you for your love and support!
 
 ## Gifts
-- [ ] Cutting board set - [link](https://fromourplace.ca/products/prepped-bundle?variant=40648614969518)
 - [ ] Cooking pan - [link](https://fromourplace.ca/products/always-essential-cooking-pan)
+- [ ] Cutting board set - [link](https://fromourplace.ca/products/prepped-bundle?variant=40648614969518)
 - [ ] Cookware pots
 - [ ] Blender
 - [ ] Tea Kettle
@@ -13,11 +13,11 @@ Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate th
 - [ ] Spatula
 - [ ] Peeler
 - [ ] Wine Bottle Opener
-- [ ] Kitchen knives
-- [ ] Rice Cooker (CUCKOO)
+- [x] Rice Cooker (CUCKOO)
 - [ ] Air fryer and toaster oven - [link](https://fromourplace.ca/products/wonder-oven)
 - [ ] Instant Pot Pressure Cooker
 - [ ] Food processor
+- [ ] The Legend of Zelda™: Tears of the Kingdom (for Nintendo Switch)
 
 ## Fund
 - [ ] Honeymoon Fund
