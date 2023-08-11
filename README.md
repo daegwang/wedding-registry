@@ -3,9 +3,9 @@
 Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate this special occasion with you. Below are some gift suggestions that would make our new journey even more memorable. Thank you for your love and support!
 
 ## Gifts
-- [ ] Cooking pan - [link](https://fromourplace.ca/products/always-essential-cooking-pan)
+- [x] Cooking pan - [link](https://fromourplace.ca/products/always-essential-cooking-pan)
 - [ ] Cutting board set - [link](https://fromourplace.ca/products/prepped-bundle?variant=40648614969518)
-- [ ] Cookware pots
+- [x] Cookware pots
 - [ ] Blender
 - [ ] Tea Kettle
 - [ ] Hand Mixer
