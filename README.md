@@ -4,7 +4,7 @@ Welcome to Heejin & Daegwang's wedding registry! We are thrilled to celebrate th
 
 ## Gifts
 - [x] Cooking pan - [link](https://fromourplace.ca/products/always-essential-cooking-pan)
-- [ ] Cutting board set - [link](https://fromourplace.ca/products/prepped-bundle?variant=40648614969518)
+- [ ] Wood cutting board
 - [x] Cookware pots
 - [ ] Blender
 - [ ] Tea Kettle
